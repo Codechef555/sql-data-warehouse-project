@@ -10,7 +10,7 @@ The project follows the **Bronze, Silver, and Gold architecture** to organize da
 
 ### 🎯 Objectives
 
-- 📥 Integrate data from multiple source systems.
+- 📥 Integrate data from multiple source systems and database tables.
 - 🧹 Clean and standardize raw data.
 - 🔄 Develop structured data transformation pipelines.
 - 🏗️ Implement a layered data warehouse architecture.
